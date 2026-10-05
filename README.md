@@ -1,5 +1,3 @@
-# TibaNetworks - Sitio Web Oficial
-
 ## Objetivo
 Desarrollo de un sitio web responsivo, semantico y accesible para una empresa especializada en servicios de TI y cableado estructurado bajo el nombre comercial de TibaNetworks. El proposito principal es ofrecer una presencia digital profesional que funcione de manera optima tanto en computadoras de escritorio como en dispositivos moviles.
 
